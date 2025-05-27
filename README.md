@@ -21,9 +21,13 @@ Tooling: SerperDevTool for real-time Google search
 LangChain Groq integration for lightning-fast inference
 
 **Installations:**
-pipenv install crewai
-pipenv install langchain_groq
-pipenv install crewai_tools
+
+- pipenv install crewai
+
+- pipenv install langchain_groq
+
+- pipenv install crewai_tools
 
 **Execution:**
-pipenv run python crew.py
+
+- pipenv run python crew.py
