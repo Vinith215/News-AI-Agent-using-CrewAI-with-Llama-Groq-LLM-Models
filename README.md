@@ -12,8 +12,11 @@ All agents collaborate in a sequential workflow, simulating a real-world editori
 
 **Tech Stack:**
 LLM: groq/llama-3.1-70b-versatile via Groq API
+
 Agents & Workflow: CrewAI
+
 Tooling: SerperDevTool for real-time Google search
+
 LangChain Groq integration for lightning-fast inference
 
 **Installations:**
