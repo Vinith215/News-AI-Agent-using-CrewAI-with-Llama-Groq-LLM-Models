@@ -11,6 +11,7 @@ This multi-agent system autonomously:
 All agents collaborate in a sequential workflow, simulating a real-world editorial pipeline for technology journalism.
 
 **Tech Stack:**
+
 LLM: groq/llama-3.1-70b-versatile via Groq API
 
 Agents & Workflow: CrewAI
